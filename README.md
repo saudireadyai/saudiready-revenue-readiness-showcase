@@ -2,30 +2,36 @@
 
 ![SaudiReady Revenue Readiness cover with an illustrative billing exception](assets/cover.jpg)
 
-**Trace approved work to the invoice register for one closed billing period.** SaudiReady helps Finance and Commercial teams review unresolved handoffs between work approval, customer acceptance, and billing records.
+**Explore how invoice-readiness workflows could look before building the backend.**
 
-[Open the interactive demo](https://saudiready-revenue-readiness-demo-4b6ip2.v2.appdeploy.ai/) · [Watch the 32-second walkthrough](assets/walkthrough.mp4) · [Read the buyer overview](assets/buyer-overview.pdf)
+## Current scope
 
-## Follow one exception
+SaudiReady Revenue Readiness is a frontend demonstration using synthetic records. A private English React/TypeScript template is undergoing release checks. **The template is not yet offered for purchase.**
 
-| Evidence from the demo | What the reviewer sees |
+The interface illustrates an overview dashboard, exception details, readiness views, accounting-control explanations, persona navigation and a hypothetical impact simulator. It does not process real billing evidence or detect exceptions from uploaded records.
+
+## Included versus proposed
+
+| Available in the demonstration | Not implemented or not included |
 | --- | --- |
-| Purchase order `PO-45821` | The underlying order reference. |
-| Service entry `SES-97342` | The approval is recorded. |
-| Invoice register | The available export shows no match for the service entry. |
+| Synthetic example records and interactive screens | Real document uploads or processing |
+| Illustrative readiness and accounting explanations | Accounting, tax or compliance decisions |
+| Hypothetical impact calculations | Guaranteed savings or recovered revenue |
+| Frontend navigation and example details | Authentication, database or ERP integration |
+| Explanatory future-feature panels | Payments, alerts, evidence-pack exports or production workflows |
 
-The reviewer checks billing eligibility, export coverage and later billing before deciding whether any action is needed. The demo uses synthetic records and requires no login or uploads.
+Purchasing a future template would not unlock the proposed features. Any professional review service would require a separate written scope; it is not included in the template.
 
-## What your team receives
+## Preview
 
-- A source-linked register of potential exceptions and unresolved items.
-- A summary of export coverage and key assumptions.
-- A findings review with the team responsible for billing.
+[Open the interactive demonstration](https://saudiready-revenue-readiness-demo-4b6ip2.v2.appdeploy.ai/)
 
-The review uses minimum authorized, de-identified, read-only exports for one closed period. This repository contains public preview materials.
+The deployed demonstration may differ from the private English candidate. The cover, [walkthrough](assets/walkthrough.mp4) and [overview PDF](assets/buyer-overview.pdf) are earlier concept/service materials, not a specification of software deliverables or a purchase offer. Do not upload confidential records or include confidential data in shared URLs.
 
-## Request a 15-minute fit check
+## Release checks
 
-Bring one billing handoff that your team still reconciles manually. No files are needed for the first conversation.
+The private candidate passed TypeScript checks, a production build and server-render tests. Real-browser/mobile acceptance, final license, support terms and buyer delivery verification remain open. These checks do not establish production readiness.
 
-[saudiready.ai@gmail.com](mailto:saudiready.ai@gmail.com?subject=SaudiReady%20Revenue%20Readiness%20fit%20check)
+This repository is public preview material only. Paid source packages are kept outside the public repository.
+
+Contact: [saudiready.ai@gmail.com](mailto:saudiready.ai@gmail.com)
