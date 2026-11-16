@@ -30,7 +30,7 @@ The deployed demonstration may differ from the private English candidate. The co
 
 ## Release checks
 
-The private candidate passed TypeScript checks, a production build and server-render tests. Real-browser/mobile acceptance, final license, support terms and buyer delivery verification remain open. These checks do not establish production readiness.
+The private English candidate passed TypeScript checks, a production build, nine component server-render checks and safe-share URL regressions for three personas. The latest private update adds labelled native dialogs, long-dialog scrolling, reduced-motion support and a sanitized manual share-link fallback. These changes have not yet replaced the deployed demonstration. Real-browser/mobile acceptance, final license, support terms and buyer delivery verification remain open. These checks do not establish production readiness.
 
 This repository is public preview material only. Paid source packages are kept outside the public repository.
 
