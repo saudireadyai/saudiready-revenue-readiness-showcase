@@ -1,37 +1,58 @@
 # SaudiReady Revenue Readiness
 
-![SaudiReady Revenue Readiness cover with an illustrative billing exception](assets/cover.jpg)
+**Prototype an invoice-readiness experience before building the backend.**
 
-**Explore how invoice-readiness workflows could look before building the backend.**
+An English React and TypeScript frontend template for developers designing finance dashboards. Explore synthetic exception details, readiness views, persona navigation and an adjustable impact simulator.
 
-## Current scope
+[Explore the current English preview](https://saudiready-revenue-readiness-template-preview-6xleio.v2.appdeploy.ai/)
 
-SaudiReady Revenue Readiness is a frontend demonstration using synthetic records. A private English React/TypeScript template is undergoing release checks. **The template is not yet offered for purchase.**
+## Release status
 
-The interface illustrates an overview dashboard, exception details, readiness views, accounting-control explanations, persona navigation and a hypothetical impact simulator. It does not process real billing evidence or detect exceptions from uploaded records.
+The private v1.0 source archive has passed the checks listed below. **Checkout publication and buyer delivery remain pending; the template is not yet offered for purchase.**
+
+## What the template includes
+
+- Editable React/TypeScript frontend source with Vite and Tailwind CSS.
+- Overview, exceptions, readiness and accounting-control demonstration views.
+- CFO, operations and billing presentation lenses.
+- A hypothetical impact simulator using SAR-denominated sample amounts.
+- Synthetic records, labelled dialogs and sanitized share links.
+- English setup, customization, privacy, support and license documentation.
+- Locked dependency versions, third-party license notices and file checksums.
 
 ## Included versus proposed
 
-| Available in the demonstration | Not implemented or not included |
+| Included in the template | Not implemented or included |
 | --- | --- |
 | Synthetic example records and interactive screens | Real document uploads or processing |
 | Illustrative readiness and accounting explanations | Accounting, tax or compliance decisions |
 | Hypothetical impact calculations | Guaranteed savings or recovered revenue |
-| Frontend navigation and example details | Authentication, database or ERP integration |
+| Frontend navigation and example details | Authentication, database, AI engine or ERP integration |
 | Explanatory future-feature panels | Payments, alerts, evidence-pack exports or production workflows |
 
-Purchasing a future template would not unlock the proposed features. Any professional review service would require a separate written scope; it is not included in the template.
+Purchasing the template will not activate proposed features. Any implementation or professional review service requires a separate scope.
 
-## Preview
+## Setup and license
 
-[Open the interactive demonstration](https://saudiready-revenue-readiness-demo-4b6ip2.v2.appdeploy.ai/)
+Requires Node.js 22 or later, npm and internet access to install dependencies. Extract the private archive, run `npm ci --ignore-scripts`, then `npm run dev`. Do not open `index.html` directly. For deployment, build and serve only `dist` over HTTPS; hosting is separate.
 
-The deployed demonstration may differ from the private English candidate. The cover, [walkthrough](assets/walkthrough.mp4) and [overview PDF](assets/buyer-overview.pdf) are earlier concept/service materials, not a specification of software deliverables or a purchase offer. Do not upload confidential records or include confidential data in shared URLs.
+The prepared license covers one end product for the purchaser or one client, including a commercial end product. It does not transfer ownership or allow resale or public redistribution of the reusable source template. Replace SaudiReady branding in your own end product and retain third-party notices.
 
-## Release checks
+Included assistance covers installation questions and reproducible defects in the unmodified template reported within 14 days of purchase. No guaranteed response time, custom development, integrations, deployment service, ongoing updates or unlimited support is included. Mandatory buyer rights remain unaffected.
 
-The private English candidate passed TypeScript checks, a production build, nine component server-render checks and safe-share URL regressions for three personas. The latest private update adds labelled native dialogs, long-dialog scrolling, reduced-motion support and a sanitized manual share-link fallback. These changes have not yet replaced the deployed demonstration. Real-browser/mobile acceptance, final license, support terms and buyer delivery verification remain open. These checks do not establish production readiness.
+## Verified checks — 20 November 2026
 
-This repository is public preview material only. Paid source packages are kept outside the public repository.
+- All 149 entries in the archive checksum manifest matched.
+- A fresh dependency installation, TypeScript check and production build passed.
+- Nine component server-render checks and three safe-share URL cases passed.
+- In connected Chrome, the current hosted preview opened and closed exception details; the integrations dialog explicitly stated that future capabilities are not included or activated by purchase.
+
+These bounded checks do not establish full accessibility, security or accounting certification. The hosted preview is separate from the downloaded source build. Payment and buyer-delivery verification remain open.
+
+## Preview-material boundaries
+
+The older [concept cover](assets/cover.jpg), [walkthrough](assets/walkthrough.mp4) and [overview PDF](assets/buyer-overview.pdf) describe an earlier concept/service. They are historical references, not the specification of this source template. Use the current preview and scope above.
+
+This repository is public preview material only. Paid source archives remain private. Do not upload confidential records or place confidential information in URLs.
 
 Contact: [saudiready.ai@gmail.com](mailto:saudiready.ai@gmail.com)
