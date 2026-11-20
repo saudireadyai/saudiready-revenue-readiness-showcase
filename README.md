@@ -8,7 +8,7 @@ An English React and TypeScript frontend template for developers designing finan
 
 ## Release status
 
-The v1.0 source archive is available for a one-time base price of USD $49. [Buy the React frontend template on Payhip](https://payhip.com/b/vzXOZ).
+The v1.0 source archive is available for a one-time base price of USD $49. [Buy on Payhip](https://payhip.com/b/vzXOZ) · [Buy on Gumroad](https://saudiready.gumroad.com/l/revenue-readiness).
 
 ## What the template includes
 
