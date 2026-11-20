@@ -8,7 +8,7 @@ An English React and TypeScript frontend template for developers designing finan
 
 ## Release status
 
-The private v1.0 source archive has passed the checks listed below. **Checkout publication and buyer delivery remain pending; the template is not yet offered for purchase.**
+The v1.0 source archive is available for a one-time base price of USD $49. [Buy the React frontend template on Payhip](https://payhip.com/b/vzXOZ).
 
 ## What the template includes
 
@@ -47,7 +47,7 @@ Included assistance covers installation questions and reproducible defects in th
 - Nine component server-render checks and three safe-share URL cases passed.
 - In connected Chrome, the current hosted preview opened and closed exception details; the integrations dialog explicitly stated that future capabilities are not included or activated by purchase.
 
-These bounded checks do not establish full accessibility, security or accounting certification. The hosted preview is separate from the downloaded source build. Payment and buyer-delivery verification remain open.
+These bounded checks do not establish full accessibility, security or accounting certification. The hosted preview is separate from the downloaded source build. A zero-cost Payhip test order reached the buyer download page and downloaded the ZIP. Paid payment processing was not tested.
 
 ## Preview-material boundaries
 
